@@ -1,0 +1,26 @@
+{
+  "name": "streamroll-array",
+  "version": "1.0.0",
+  "description": "A simple utility to flatten nested arrays of any depth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujtabasaqib/steamroll-array.git"
+  },
+  "keywords": [
+    "array",
+    "flatten",
+    "recursive",
+    "utility",
+    "steamroll"
+  ],
+  "author": "Mujtaba Saqib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujtabasaqib/steamroll-array/issues"
+  },
+  "homepage": "https://github.com/mujtabasaqib/steamroll-array#readme"
+}
