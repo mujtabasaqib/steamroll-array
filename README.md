@@ -6,6 +6,7 @@ A simple utility to flatten nested arrays of any depth.
 
 ```bash
 npm install steamroll-array
+```
 
 ## Example Usage
 
