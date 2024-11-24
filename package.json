@@ -1,6 +1,6 @@
 {
   "name": "steamroll-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to flatten nested arrays of any depth.",
   "main": "index.js",
   "scripts": {
