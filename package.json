@@ -1,5 +1,5 @@
 {
-  "name": "streamroll-array",
+  "name": "steamroll-array",
   "version": "1.0.0",
   "description": "A simple utility to flatten nested arrays of any depth.",
   "main": "index.js",
